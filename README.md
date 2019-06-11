@@ -8,3 +8,6 @@ Used one-cycle-policy estimating an optimal learning rate to allow model converg
 ![image](https://github.com/Cosoet/CancerDetection/blob/master/img/onecycle.png)
 
 Implemented a stacked ensemble method with test time augmentation to predict the results
+
+
+Reference: https://www.humanunsupervised.com/post/histopathological-cancer-detection
